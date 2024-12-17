@@ -1,0 +1,7 @@
+Download VScode
+Download python 3.9.6 (64-bit)
+Download arduino ide 1.8.19
+pip install pyfirmata
+pip install cv2
+pip install handtrackingmodule
+pip install handdetector 
